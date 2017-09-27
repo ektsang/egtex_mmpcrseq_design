@@ -1,0 +1,9 @@
+.DS_Store
+*.Rout
+*.RData
+*.log*
+*.gtf
+*.pyc
+primer_design/hg19.gencode19.blast.db.*
+primer_design/primer_mapping_info.txt
+.Rhistory

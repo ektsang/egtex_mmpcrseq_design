@@ -1,0 +1,14 @@
+UCSC_TableBrowser_gencode19 downloaded from the UCSC table browser on 2016.11.28 using settings:
+clade: Mammal
+genome: Human
+assembly: Feb.2009 (GRCh37/hg19)
+group: Genes and Gene Predictions
+track: GENCODE Genes V19
+table: Comprehensive (wgEncodeGencodeCompV19)
+region: genome
+output format: all fields from selected table
+output file: UCSC_TableBrowser_gencode19
+
+UCSC_TableBrowser_gencode19 downloaded from the UCSC table browser on 2016.11.28 with same settings except:
+output format: BED
+(then create one record per gene)
