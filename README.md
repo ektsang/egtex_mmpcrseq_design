@@ -1,8 +1,4 @@
-## Author: Emily Tsang
-
 ## To keep track of order in which to run scripts
-
-###########################################################
 
 Setup
 =====
@@ -82,7 +78,6 @@ Necessary input files
 * master.platemap.txt (move it or link to it in `${EGTEXDIR}/sampleInfo`)
 
 
-###########################################################
 Site selection
 ==============
 
